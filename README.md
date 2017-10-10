@@ -1,2 +1,3 @@
 # hello-universe
-universe
+vast universe
+beautiful universe
